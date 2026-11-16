@@ -1,0 +1,6 @@
+{
+  "name": "Arundary Cafe and Space",
+  "description": "Modern QR code-based cafe ordering and real-time order monitoring system for Arundary Cafe and Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
